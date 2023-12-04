@@ -710,7 +710,7 @@ footer {
 .section7_text_input {
     display: flex;
     width: 190px;
-    padding: 11px 0 12px 8px;
+    padding: 12px 0 12px 8px;
     align-items: center;
     border-radius: 10px;
     border: 2px solid #FFF;
